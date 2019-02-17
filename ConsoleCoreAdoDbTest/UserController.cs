@@ -1,5 +1,5 @@
 ﻿using CoreAdoDbLib;
-using Microsoft.Extensions.Configuration;
+
 
 
 namespace ConsoleCoreAdoDbTest

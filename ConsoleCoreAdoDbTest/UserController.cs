@@ -18,6 +18,7 @@ namespace ConsoleCoreAdoDbTest
         {
             Result result = _userRepo.GetUserList();
             return result;
+
         }
 
     }
